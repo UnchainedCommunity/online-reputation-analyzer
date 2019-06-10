@@ -5,3 +5,4 @@ six==1.12.0
 sqlparse==0.3.0
 tzlocal==1.5.1
 twint
+aiohttp-socks

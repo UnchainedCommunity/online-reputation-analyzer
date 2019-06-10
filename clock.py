@@ -7,10 +7,9 @@ sched = BlockingScheduler()
 
 @sched.scheduled_job('cron', hour=0)
 def scheduled_job():
-    print('This job is run every weekday at 5pm.')
+    print('This job is run every weekday at 00pm.')
     # Configure
     c = twint.Config()
-    c.Username = "noneprivacy"
     c.Search = "#djezzy"
     c.Format = "Tweet id: {id} | Tweet: {tweet}"
 
