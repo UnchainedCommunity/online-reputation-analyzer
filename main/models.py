@@ -11,9 +11,3 @@ class Topic(models.Model):
     keywords = models.ManyToManyField(Keyword)
     is_active = models.BooleanField(default=True)
     # is_public
-
-
-
-
-
-

@@ -16,4 +16,8 @@ def scheduled_job():
     # Run)
     twint.run.Search(c)
 
+    # TODO Sentiment analysis using textblob, textblob-fr, textblob-ar, textblob-dz
+
+
+
 sched.start()
