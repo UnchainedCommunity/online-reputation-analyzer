@@ -1,0 +1,7 @@
+.idea/
+*.sqlite3
+**.py[cd]
+/static/
+/media/
+geos-3.6.0/
+venv/
