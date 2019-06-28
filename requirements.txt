@@ -6,3 +6,5 @@ sqlparse==0.3.0
 tzlocal==1.5.1
 twint
 aiohttp-socks
+textblob==0.15.3
+nltk==3.4

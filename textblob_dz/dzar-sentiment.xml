@@ -1,0 +1,83 @@
+<sentiment language="dz_ar" version="1.0" author="Maafi Hanene">
+
+    <word form="mlih" pos="JJ" polarity="0.70" subjectivity="0.70" intensity="1.0" confidence="1.0" />
+    <word form="mliha" pos="JJ" polarity="0.70" subjectivity="0.70" intensity="1.0" confidence="0.9" />
+    <word form="mlah" pos="JJ" polarity="0.70" subjectivity="0.70" intensity="1.0" confidence="0.9" />
+    <word form="nhab" pos="VB" polarity="0.60" subjectivity="0.60" intensity="1.0" confidence="0.9" />
+    <word form="bezaf" pos="RB" polarity="-0.08" subjectivity="0.40" intensity="0.9" confidence="0.9" />
+    <word form="hayel" pos="JJ" polarity="0.85" subjectivity="0.95" intensity="1.0" confidence="0.9" />
+    <word form="hayla" pos="JJ" polarity="0.85" subjectivity="0.95" intensity="1.0" confidence="0.9" />
+    <word form="bahi" pos="JJ" polarity="0.70" subjectivity="0.70" intensity="1.0" confidence="1.0" />
+    <word form="bahia" pos="JJ" polarity="0.70" subjectivity="0.70" intensity="1.0" confidence="1.0" />
+    <word form="mayet" pos="JJ" polarity="-0.71" subjectivity="0.80" intensity="1.0" confidence="1.0" />
+    <word form="mayta" pos="JJ" polarity="-0.71" subjectivity="0.80" intensity="1.0" confidence="0.9" />
+    <word form="chbab" pos="JJ" polarity="0.80" subjectivity="0.80" intensity="1.0" confidence="0.9" />
+    <word form="chaba" pos="JJ" polarity="0.80" subjectivity="0.80" intensity="1.0" confidence="0.9" />
+    <word form="hamel" pos="JJ" polarity="-0.30" subjectivity="0.40" intensity="1.0" confidence="0.9" />
+    <word form="hamla" pos="JJ" polarity="-0.30" subjectivity="0.40" intensity="1.0" confidence="0.8" />
+    <word form="hamlat" pos="JJ" polarity="-0.30" subjectivity="0.40" intensity="1.0" confidence="0.8" />
+    <word form="hamlin" pos="JJ" polarity="-0.30" subjectivity="0.40" intensity="1.0" confidence="0.8" />
+    <word form="madrour" pos="JJ" polarity="-0.12" subjectivity="0.00" intensity="1.0" confidence="0.7" />
+    <word form="madroura" pos="JJ" polarity="-0.12" subjectivity="0.00" intensity="1.0" confidence="0.7" />
+    <word form="madrourin" pos="JJ" polarity="-0.12" subjectivity="0.00" intensity="1.0" confidence="0.7" />
+    <word form="makrouh" pos="JJ" polarity="-0.90" subjectivity="1.00" intensity="1.0" confidence="0.9" />
+    <word form="makroha" pos="JJ" polarity="-0.90" subjectivity="1.00" intensity="1.0" confidence="0.8" />
+    <word form="makrohin" pos="JJ" polarity="-0.90" subjectivity="1.00" intensity="1.0" confidence="0.9" />
+    <word form="ghabi" pos="JJ" polarity="-0.28" subjectivity="-0.50" intensity="1.0" confidence="0.7" />
+    <word form="ghabia" pos="JJ" polarity="-0.28" subjectivity="-0.50" intensity="1.0" confidence="0.7" />
+    <word form="aghbia" pos="JJ" polarity="-0.28" subjectivity="-0.50" intensity="1.0" confidence="0.7" />
+    <word form="ghayeb" pos="JJ" polarity="-0.10" subjectivity="0.00" intensity="1.0" confidence="0.9" />
+    <word form="ghayba" pos="JJ" polarity="-0.10" subjectivity="0.00" intensity="1.0" confidence="0.8" />
+    <word form="ghaybin" pos="JJ" polarity="-0.10" subjectivity="0.00" intensity="1.0" confidence="0.8" />
+    <word form="jayeh" pos="JJ" polarity="0.1" subjectivity="0.40" intensity="1.0" confidence="0.9" />
+    <word form="jayha" pos="JJ" polarity="0.1" subjectivity="0.40" intensity="1.0" confidence="0.8" />
+    <word form="fassed" pos="JJ" polarity="-0.20" subjectivity="-0.40" intensity="1.0" confidence="0.7" />
+    <word form="fasdin" pos="JJ" polarity="-0.20" subjectivity="-0.40" intensity="1.0" confidence="0.7" />
+    <word form="fasda" pos="JJ" polarity="-0.20" subjectivity="-0.40" intensity="1.0" confidence="0.7" />
+    <word form="fasdat" pos="JJ" polarity="-0.20" subjectivity="-0.40" intensity="1.0" confidence="0.7" />
+    <word form="3ayan" pos="JJ" polarity="-0.15" subjectivity="-0.30" intensity="1.0" confidence="0.7" />
+    <word form="3ayana" pos="JJ" polarity="-0.15" subjectivity="-0.30" intensity="1.0" confidence="0.7" />
+    <word form="kamel" pos="JJ" polarity="0.15" subjectivity="0.20" intensity="1.0" confidence="1.0" />
+    <word form="kamla" pos="JJ" polarity="0.15" subjectivity="0.20" intensity="1.0" confidence="0.9" />
+    <word form="kamlin" pos="JJ" polarity="0.15" subjectivity="0.20" intensity="1.0" confidence="0.9" />
+    <word form="kamlat" pos="JJ" polarity="0.15" subjectivity="0.20" intensity="1.0" confidence="0.9" />
+    <word form="wa3er" pos="JJ" polarity="-0.60" subjectivity="0.50" intensity="1.0" confidence="1.0" />
+    <word form="wa3rin" pos="JJ" polarity="-0.60" subjectivity="0.50" intensity="1.0" confidence="0.9" />
+    <word form="wa3ra" pos="JJ" polarity="-0.60" subjectivity="0.50" intensity="1.0" confidence="0.9" />
+    <word form="habes" pos="JJ" polarity="-0.60" subjectivity="0.90" intensity="1.0" confidence="0.9" />
+    <word form="habsa" pos="JJ" polarity="-0.60" subjectivity="0.90" intensity="1.0" confidence="0.8" />
+    <word form="habsin" pos="JJ" polarity="-0.60" subjectivity="0.90" intensity="1.0" confidence="0.8" />
+    <word form="bhim" pos="JJ" polarity="-0.60" subjectivity="0.90" intensity="1.0" confidence="0.9" />
+    <word form="bhima" pos="JJ" polarity="-0.60" subjectivity="0.90" intensity="1.0" confidence="0.8" />
+    <word form="bhayem" pos="JJ" polarity="-0.60" subjectivity="0.90" intensity="1.0" confidence="0.8" />
+    <word form="s3ib" pos="JJ" polarity="-0.50" subjectivity="0.40" intensity="1.0" confidence="1.0" />
+    <word form="s3iba" pos="JJ" polarity="-0.50" subjectivity="0.40" intensity="1.0" confidence="0.9" />
+    <word form="s3ab" pos="JJ" polarity="-0.50" subjectivity="0.40" intensity="1.0" confidence="0.9" />
+    <word form="majnoun" pos="JJ" polarity="-0.20" subjectivity="0.40" intensity="1.0" confidence="0.9" />
+    <word form="majnouna" pos="JJ" polarity="-0.20" subjectivity="0.40" intensity="1.0" confidence="0.8" />
+    <word form="mahboul" pos="JJ" polarity="-0.01" subjectivity="0.90" intensity="1.0" confidence="1.0" />
+    <word form="9awi" pos="JJ" polarity="0.41" subjectivity="0.30" intensity="1.0" confidence="1.0" />
+    <word form="9awya" pos="JJ" polarity="0.41" subjectivity="0.30" intensity="1.0" confidence="0.9" />
+    <word form="9awyin" pos="JJ" polarity="0.41" subjectivity="0.30" intensity="1.0" confidence="0.9" />
+    <word form="msseyaf" pos="JJ" polarity="-0.40" subjectivity="0.55" intensity="1.0" confidence="0.9" />
+    <word form="msseyfa" pos="JJ" polarity="-0.40" subjectivity="0.55" intensity="1.0" confidence="0.8" />
+    <word form="ghali" pos="JJ" polarity="-0.21" subjectivity="0.40" intensity="1.0" confidence="1.0" />
+    <word form="ghalia" pos="JJ" polarity="-0.21" subjectivity="0.40" intensity="1.0" confidence="0.9" />
+    <word form="mkhayer" pos="JJ" polarity="0.53" subjectivity="0.50" intensity="1.0" confidence="1.0" />
+    <word form="mkhayra" pos="JJ" polarity="0.53" subjectivity="0.50" intensity="1.0" confidence="0.9" />
+    <word form="mkhayrin" pos="JJ" polarity="0.53" subjectivity="0.50" intensity="1.0" confidence="0.9" />
+    <word form="mkhyrat" pos="JJ" polarity="0.53" subjectivity="0.50" intensity="1.0" confidence="0.9" />
+    <word form="bayen" pos="JJ" polarity="0.28" subjectivity="0.10" intensity="1.0" confidence="1.0" />
+    <word form="bayna" pos="JJ" polarity="0.28" subjectivity="0.10" intensity="1.0" confidence="0.9" />
+    <word form="safi" pos="JJ" polarity="0.28" subjectivity="0.10" intensity="1.0" confidence="1.0" />
+    <word form="safia" pos="JJ" polarity="0.28" subjectivity="0.10" intensity="1.0" confidence="0.9" />
+    <word form="wadeh" pos="JJ" polarity="0.28" subjectivity="0.10" intensity="1.0" confidence="1.0" />
+    <word form="wadha" pos="JJ" polarity="0.28" subjectivity="0.10" intensity="1.0" confidence="0.9" />
+    <word form="kavi" pos="JJ" polarity="-0.70" subjectivity="0.90" intensity="1.0" confidence="0.8" />
+    <word form="kavia" pos="JJ" polarity="-0.70" subjectivity="0.90" intensity="1.0" confidence="0.8" />
+
+
+
+
+
+</sentiment>

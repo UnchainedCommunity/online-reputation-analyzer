@@ -19,5 +19,13 @@ def scheduled_job():
     # TODO Sentiment analysis using textblob, textblob-fr, textblob-ar, textblob-dz
 
 
+print('This job is run every weekday at 00pm.')
+# Configure
+c = twint.Config()
+c.Username = "noneprivacy"
+c.Search = "#djezzy"
+c.Format = "Tweet id: {str(id)} | Tweet: {tweet}"
 
+# Run)
+twint.run.Search(c)
 sched.start()
